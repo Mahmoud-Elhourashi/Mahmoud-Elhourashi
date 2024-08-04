@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmoud-Elhourashi
+- 👋 Hi, I’m @Mahmoud-ElKhourashi
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Data analytics
 - 📫 How to reach me mahmoudhazem.k@gmail.com
